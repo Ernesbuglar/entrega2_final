@@ -3,5 +3,5 @@
 @import "tailwindcss/utilities";
 
 .pesto{
-    @apply font-light bg-red-900 px-4 py-2
+    @apply font-light bg-slate-500 px-4 py-2
 }
